@@ -509,19 +509,19 @@ Here's a complete HTML/JavaScript chat interface that demonstrates user ID manag
 - Implement exponential backoff for retries
 - Space out requests in high-traffic applications
 
-### Debug Tips
+#### Debug Tips
 - Use browser developer tools to inspect network requests
 - Log user IDs and API responses for debugging
 - Test with simple queries first before complex integrations
 
-### Getting Help
-- Check the API documentation at `docs.html`
+#### Getting Help
+- Check the API documentation at `/docs`
 - Review the examples in this guide
 - Test endpoints using the built-in playground in the documentation
 
 ---
  
-**© 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧**
-**Last Updated**: October 2025
-**API Version**: 0.1.0.2
+#### © 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧
+#### Last Updated: October 2025
+#### API Version: 0.1.0.2
 
