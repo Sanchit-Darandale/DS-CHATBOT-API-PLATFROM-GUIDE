@@ -520,11 +520,8 @@ Here's a complete HTML/JavaScript chat interface that demonstrates user ID manag
 - Test endpoints using the built-in playground in the documentation
 
 ---
-
-**Developer**: Sanchit 
-
+ 
+**© 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧**
 **Last Updated**: October 2025
-
 **API Version**: 0.1.0.2
 
-- © 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧
