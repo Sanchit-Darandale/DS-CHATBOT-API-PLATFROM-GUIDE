@@ -524,4 +524,10 @@ Here's a complete HTML/JavaScript chat interface that demonstrates user ID manag
 #### © 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧
 #### Last Updated: October 2025
 #### API Version: 0.1.0.2
+## Credit 💞
 
+* [Sanchit Darandale](https://img.shields.io/static/v1?label=Sanchit&message=Darandale&color=yellow)
+
+## Disclaimer    
+Licensed under [MIT](https://github.com/Sanchit-Darandale/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
