@@ -1,4 +1,9 @@
-# DS API Platform Usage Guide
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐃𝐒+𝐀𝐏𝐈+𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐒𝐀𝐍𝐂𝐇𝐈𝐓;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟+𝐀𝐏𝐈+𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌!)</p>
+<p align="center">
+
+<h1 align="center">
+  <b> 𝐃𝐒 𝐀𝐏𝐈 𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌</b>
+</h1>
 
 This guide provides comprehensive examples and best practices for integrating with the DS API Platform, a unified chatbot API powered by OpenAI GPT and Google Gemini models with MongoDB memory persistence.
 
@@ -521,13 +526,10 @@ Here's a complete HTML/JavaScript chat interface that demonstrates user ID manag
 
 ---
  
-#### © 𝚂𝙰𝙽𝙲𝙷𝙸𝚃 ♛⛧
-#### Last Updated: October 2025
-#### API Version: 0.1.0.2
-## Credit 💞
+## Credit 
 
 ![Sanchit Darandale](https://img.shields.io/static/v1?label=Sanchit&message=Darandale&color=yellow)
 
 ## Disclaimer    
-Licensed under [MIT](https://github.com/Sanchit-Darandale/blob/main/LICENSE)
+Licensed under [MIT](https://github.com/Sanchit-Darandale/DS-CHATBOT-API-PLATFROM-GUIDE/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
