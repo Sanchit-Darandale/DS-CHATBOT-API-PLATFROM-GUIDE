@@ -526,7 +526,7 @@ Here's a complete HTML/JavaScript chat interface that demonstrates user ID manag
 #### API Version: 0.1.0.2
 ## Credit 💞
 
-* [Sanchit Darandale](https://img.shields.io/static/v1?label=Sanchit&message=Darandale&color=yellow)
+* [![Sanchit Darandale](https://img.shields.io/static/v1?label=Sanchit&message=Darandale&color=yellow)]
 
 ## Disclaimer    
 Licensed under [MIT](https://github.com/Sanchit-Darandale/blob/main/LICENSE)
